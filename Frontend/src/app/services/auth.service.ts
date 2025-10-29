@@ -36,7 +36,7 @@ export interface RegisterResponse {
   providedIn: 'root'
 })
 export class AuthService {
-  private apiUrl = 'http://localhost:5000/api/auth';
+  private apiUrl = 'http://localhost:5098/api/auth';
   private currentUserSubject = new BehaviorSubject<UserInfo | null>(this.getUserFromStorage());
   public currentUser$ = this.currentUserSubject.asObservable();
   private tokenSubject = new BehaviorSubject<string | null>(this.getTokenFromStorage());

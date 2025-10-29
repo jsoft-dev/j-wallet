@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet-angular\\Backend\\Backend.csproj": {}
+    "C:\\dotnet-angular\\dotnet-angular\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\dotnet-angular\\Backend\\Backend.csproj": {
+    "C:\\dotnet-angular\\dotnet-angular\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet-angular\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\dotnet-angular\\dotnet-angular\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\dotnet-angular\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\cjanlk\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet-angular\\Backend\\obj\\",
+        "projectPath": "C:\\dotnet-angular\\dotnet-angular\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\jsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet-angular\\dotnet-angular\\Backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cjanlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://p2vsts.pkgs.visualstudio.com/_packaging/P2Package/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
@@ -95,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jsoft\\.dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
